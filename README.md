@@ -2,26 +2,19 @@
 
 
 ## Related
--
 
 ---
-
 <details>
-
 <summary>
   Research
 </summary>
-
 # How to Download ManyVids Videos: Technical Analysis of Stream Patterns, CDNs, and Download Methods
-
 *A comprehensive research document analyzing ManyVids's video infrastructure, embed patterns, stream formats, and optimal download strategies using modern tools*
-
 **Authors**: SERP Apps  
 **Date**: December 2025  
 **Version**: 1.0
-
 ---
-
+- [ManyVids Downloader gist](https://gist.github.com/devinschumacher/5334863566ca999c8a423de0c82cb65e)
 ## Abstract
 
 This research document covers ManyVids' store pages, tokenized media responses, and CDN delivery patterns for MP4 and HLS assets.
