@@ -1,0 +1,10 @@
+{
+  "actorSpecification": 1,
+  "buildTag": "latest",
+  "description": "Manyvids Downloader helps creators and authorized viewers archive the videos they own. Skip unreliable screen recording\u2014download the original files so quality, captions, and metadata stay intact.\n\nUse it to deliver purchased content to editors, prep client projects, or keep personal collections available without relying on streaming access.",
+  "input": "./INPUT_SCHEMA.json",
+  "name": "manyvids-downloader",
+  "readme": "../ACTOR.md",
+  "title": "Manyvids Downloader",
+  "version": "0.0"
+}
