@@ -1,4 +1,4 @@
-# ManyVids Downloader (Browser Extension)
+# ManyVids Downloader
 
 > Download supported ManyVids videos as MP4 files from the browser with direct quality selection.
 
