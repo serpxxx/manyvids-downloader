@@ -5,6 +5,6 @@
   "input": "./INPUT_SCHEMA.json",
   "name": "manyvids-downloader",
   "readme": "../ACTOR.md",
-  "title": "Manyvids Downloader",
+  "title": "Manyvids Video Downloader | How to Download Manyvids Videos",
   "version": "0.0"
 }
